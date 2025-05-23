@@ -9,11 +9,11 @@ body {
   margin: 0;
   font-family: 'Bebas Neue', sans-serif;
   background: linear-gradient(160deg,
-    #034694 0%,
-    #0476D9 20%,
-    #05AFF2 45%,
-    #05F2DB 70%,
-    #04D976 100%
+    #0B4619 0%,
+    #116530 20%,
+    #1B9C85 45%,
+    #4FC0D0 70%,
+    #1450A3 100%
   );
   background-size: 400% 400%;
   animation: gradientMove 20s ease infinite;
